@@ -1,0 +1,10 @@
+Id	AccountId	IdOnGitHub	Note	AccessToken	Scopes
+0	0	56607852	RepositoryControl	d212913e96cbd2ec0cbd1e9631f8733eb3c26895	delete_repo,repo
+1	0	56607894	GistControl	9fca42e661e499753ba3bffba4d02c6b6bc849b5	gist
+2	1	56608197	RepositoryControl	15939e6c48822bef0bae12948380f2bf292e14a1	delete_repo,repo
+3	1	56608254	GistControl	983029c54a253d0a0113d2a9ddfccdffa83d82f2	gist
+4	2	56607655	RepositoryControl	bc2b1787d2d7025cc99adc39a9d2e865b198a8cd	delete_repo,repo
+5	2	56607702	GistControl	8b0fc968c3ff00bb2828a800b8aa1e478bea57bc	gist
+6	3	56607219	RepositoryControl	96e2e4b3e2e0a6c1fbcc20e1d00e078061c46ef3	delete_repo,repo
+7	3	56607401	GistControl	f76d514cc7a6b03c2db3ad42ef05508e5fff0b53	gist
+8	3	56607494	FullControl	5eb0a7c1d4123486a611c14ade08b94c0db93d82	admin:gpg_key,admin:org,admin:org_hook,admin:public_key,admin:repo_hook,delete_repo,gist,notifications,repo,user
